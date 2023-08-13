@@ -1,5 +1,5 @@
 # Postmortem: Cross-Origin Resource Sharing (CORS) Issue
-![CORS Issue Image]([https://example.com/path/to/cors_issue_image.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.keycdn.com%2Fimg%2Fsupport%2Fcors.png&tbnid=gaHYhxKI58mtZM&vet=12ahUKEwiPnLGFtNqAAxUykicCHe5kCHsQMygBegUIARDNAQ..i&imgrefurl=https%3A%2F%2Fwww.keycdn.com%2Fsupport%2Fcors&docid=nxUWnY3oUVdUNM&w=2048&h=1024&q=Cross-Origin%20Resource%20Sharing%20(CORS)%20Issue&ved=2ahUKEwiPnLGFtNqAAxUykicCHe5kCHsQMygBegUIARDNAQ))
+![CORS Issue Image](https://www.keycdn.com/img/support/cors-lg.webp)
 # Issue Summary
 **Duration:** August 8, 2023, 10:00 AM to August 8, 2023, 12:30 PM (UTC+0)  
 **Impact:** During the stated time frame, users experienced intermittent access issues while interacting with our web application's API services. Approximately 15% of users were affected by slow response times and occasional errors.  
